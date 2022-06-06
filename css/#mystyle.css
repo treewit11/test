@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    width: 100%;
+    height : 220px;
+    background:blue;
+}
+.navbar{
+    width: 100%;
+    height: 200px;
+    background: black;
+}
+.content{
+    width: 100%;
+    height: 500px;
+    background: purple;
+}
+li{
+    float:left;
+    margin:10px 10px;
+    list-style-type:none;
+}
+li a{
+    color:#fff;
+    text-decoration:none;
+}
+li a:hover{
+    color:yellow;
+}
+u{
+    float:right;
+    margin:15px 25px;
+    list-style-type: none;
+}
+u a{
+    color:#fff;
+    text-decoration:none;
+}
+u a:hover{
+    color:yellow;
+}
+g{
+    float:left;
+    margin:15px 25px;
+    list-style-type: none;
+}
+g a{
+    color:#fff;
+    text-decoration:none;
+}
+g a:hover{
+    color:yellow;
+}
